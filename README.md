@@ -1,7 +1,7 @@
 
 
+
 ### There Is What I'm working On!
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...JavaScript,Jquery
 - 🌱 I’m currently learning ...Node.Js
